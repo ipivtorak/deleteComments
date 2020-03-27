@@ -1,3 +1,3 @@
 "# deleteComments" 
 
-функция, которая удаляет из любого валидного js файла все комментарии, без ущерба исходному коду
+a function which deletes all comments from any valid .js file, with no damage to code
